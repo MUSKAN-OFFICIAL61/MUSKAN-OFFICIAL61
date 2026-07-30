@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muskan Chauhan
+# Hi there 👋, I'm Muskan 
 
 ### 💻 Computer Science Engineering Student | DSA Enthusiast | Aspiring Software Engineer
 
