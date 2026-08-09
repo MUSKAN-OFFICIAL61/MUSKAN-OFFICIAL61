@@ -90,6 +90,13 @@ Exploring     → Software Development
 </p>
 
 ---
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MUSKAN-OFFICIAL61&theme=radical&hide_border=true" alt="Muskan's GitHub Streak" />
+</p>
 
 ### ✨ Learning → Building → Improving
 
