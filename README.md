@@ -23,9 +23,6 @@ Currently focused on strengthening my programming fundamentals, improving my DSA
 ---
 
 ## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
 ### 👨‍💻 Languages
 
 <p align="left">
