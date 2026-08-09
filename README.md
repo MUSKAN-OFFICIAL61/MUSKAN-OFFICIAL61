@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" alt="Muskan - Computer Science Engineering Student" width="100%">
+  <img src="./github-banner.png" alt="Muskan - Computer Science Engineering Student" width="100%" height="250">
 </p>
 
 # 👋 Hi, I'm Muskan
