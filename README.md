@@ -28,11 +28,25 @@ Currently focused on strengthening my programming fundamentals, improving my DSA
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### 👨‍💻 Languages
 
-* C++
-* Python
-* JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" />
+</p>
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ### 🌐 Web Development
 
