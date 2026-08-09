@@ -6,10 +6,6 @@
 
 ### 💻 Computer Science Engineering Student
 
-# 👋 Hi, I'm Muskan
-
-### 💻 Computer Science Engineering Student
-
 I'm a CSE student who enjoys **coding, problem solving, and building things**.
 
 Currently focused on strengthening my programming fundamentals, improving my DSA skills, and learning modern web development.
