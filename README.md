@@ -48,21 +48,6 @@ Currently focused on strengthening my programming fundamentals, improving my DSA
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### 🌐 Web Development
-
-* HTML5
-* CSS3
-* JavaScript
-* Node.js
-
-### 🧰 Tools
-
-* Git
-* GitHub
-* VS Code
-
----
-
 ## 🧠 Problem Solving
 
 I regularly practice **Data Structures & Algorithms in C++** to improve my problem-solving and logical thinking.
@@ -86,15 +71,17 @@ Exploring     → Software Development
 
 ## 📊 Coding Profiles
 
-### 🟠 LeetCode
+<p align="center">
 
-🔗 [MUSKAN_CHAUHAN_1123](https://leetcode.com/u/MUSKAN_CHAUHAN_1123/)
+<a href="https://leetcode.com/u/MUSKAN_CHAUHAN_1123/">
+  <img src="https://img.shields.io/badge/LeetCode-MUSKAN__CHAUHAN__1123-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-### 🏆 CodeChef
+<a href="https://www.codechef.com/users/acute_gale_23">
+  <img src="https://img.shields.io/badge/CodeChef-acute__gale__23-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
 
-🔗 [acute_gale_23](https://www.codechef.com/users/acute_gale_23)
-
----
+</p>
 
 ## 📊 GitHub Stats
 
