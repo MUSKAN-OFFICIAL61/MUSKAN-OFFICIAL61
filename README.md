@@ -1,92 +1,85 @@
-# Hi there 👋, I'm Muskan 
+# 👋 Hi, I'm Muskan
 
-### 💻 Computer Science Engineering Student | DSA Enthusiast | Aspiring Software Engineer
+### 💻 Computer Science Engineering Student
 
-I'm a passionate Computer Science student who enjoys solving Data Structures & Algorithms problems, building web applications, and continuously learning new technologies.
+I'm a CSE student who enjoys **coding, problem solving, and building things**.
+
+Currently focused on strengthening my programming fundamentals, improving my DSA skills, and learning modern web development.
 
 ---
 
-## 🚀 About Me
+## ⚡ What I'm Learning
 
-- 🎓 Computer Science Engineering Student
-- 💻 Currently improving my DSA and Competitive Programming skills
-- 🌱 Learning Full Stack Web Development
-- 🎯 Goal: Crack top Software Engineering roles and contribute to impactful projects
-- ⚡ Love solving coding problems and building projects
+* 🧠 Data Structures & Algorithms with C++
+* 🌐 JavaScript & Web Development
+* ⚙️ Node.js & Backend Development
+* 🐍 Python
+* 🐙 Git & GitHub
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- C++
-- JavaScript
-- HTML5
-- CSS3
+### 👨‍💻 Languages
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- Node.js (Learning)
+* C++
+* Python
+* JavaScript
 
-### CS Fundamentals
-- Data Structures
-- Algorithms
-- OOP
-- Problem Solving
+### 🌐 Web Development
 
----
+* HTML5
+* CSS3
+* JavaScript
+* Node.js
 
-# 📊 Coding Profiles
+### 🧰 Tools
 
-## 🟠 LeetCode
-🔗 https://leetcode.com/u/MUSKAN_CHAUHAN_1123/
-
-## 🍛 CodeChef
-🔗 https://www.codechef.com/users/acute_gale_23
+* Git
+* GitHub
+* VS Code
 
 ---
 
-## 📈 Current Focus
+## 🧠 Problem Solving
 
-✔️ Data Structures & Algorithms
+I regularly practice **Data Structures & Algorithms in C++** to improve my problem-solving and logical thinking.
 
-✔️ Competitive Programming
+### 📌 Currently Working On
 
-✔️ Full Stack Development
-
-✔️ Open Source
+`Arrays` • `Strings` • `Linked List` • `Stack` • `Queue` • `Binary Search` • `Trees` • `Graphs` • `DP`
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently
 
-- Advanced DSA
-- React.js
-- Backend Development
-- System Design Basics
-
----
-
-## 🎯 2026 Goals
-
-- Solve 500+ DSA Problems
-- Build Full Stack Projects
-- Participate in Hackathons
-- Contribute to Open Source
-- Secure a Software Engineering Internship
+```text
+Learning      → DSA + Web Development
+Building      → Small projects & experiments
+Improving     → Problem Solving + Programming Fundamentals
+Exploring     → Software Development
+```
 
 ---
 
-## 📫 Connect With Me
+## 📊 Coding Profiles
 
-💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+### 🟠 LeetCode
 
-💻 LeetCode: https://leetcode.com/u/MUSKAN_CHAUHAN_1123/
+🔗 [MUSKAN_CHAUHAN_1123](https://leetcode.com/u/MUSKAN_CHAUHAN_1123/)
 
-🍛 CodeChef: https://www.codechef.com/users/acute_gale_23/
+### 🏆 CodeChef
+
+🔗 [acute_gale_23](https://www.codechef.com/users/acute_gale_23)
 
 ---
 
-⭐ *"Consistency beats intensity. Keep coding every day."*
+## 📈 GitHub
+
+I use GitHub to document my learning, practice coding, and build projects.
+
+---
+
+### ✨ Learning → Building → Improving
+
+⭐ *Consistency beats intensity. Keep coding every day.*
