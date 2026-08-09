@@ -82,9 +82,12 @@ Exploring     → Software Development
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub Stats
 
-I use GitHub to document my learning, practice coding, and build projects.
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MUSKAN-OFFICIAL61&show_icons=true&theme=radical&hide_border=true" height="180">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MUSKAN-OFFICIAL61&layout=compact&theme=radical&hide_border=true" height="180">
+</p>
 
 ---
 
