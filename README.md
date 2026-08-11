@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./github_banner.png" alt="Muskan - Computer Science Engineering Student" width="100%">
-</p>
+
 
 # 👋 Hi, I'm Muskan
 
