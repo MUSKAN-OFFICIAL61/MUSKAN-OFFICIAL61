@@ -60,19 +60,7 @@ Exploring     → Software Development
 
 ---
 
-## 📊 Coding Profiles
 
-<p align="center">
-
-<a href="https://leetcode.com/u/MUSKAN_CHAUHAN_1123/">
-  <img src="https://img.shields.io/badge/LeetCode-MUSKAN__CHAUHAN__1123-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/users/acute_gale_23">
-  <img src="https://img.shields.io/badge/CodeChef-acute__gale__23-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</p>
 
 ## 📊 GitHub Stats
 
